@@ -1,0 +1,883 @@
+GitHub Download Stats
+Author: Alexander Gorishnyak <kefir500@gmail.com>
+
+Downloading MontrealCorpusTools/Montreal-Forced-Aligner stats...
+Downloaded in 0.668s
+
+          --- Version 3.1.1 ---
+
+         Tag: v3.1.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.1.1
+Published at: Tue Jun  4 20:39:15 2024
+
+            0 Total
+
+          --- Version 3.1.0 ---
+
+         Tag: v3.1.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.1.0
+Published at: Sun Jun  2 16:18:13 2024
+
+            0 Total
+
+          --- Version 3.0.7 ---
+
+         Tag: v3.0.7
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.7
+Published at: Fri May  3 05:47:27 2024
+
+            0 Total
+
+          --- Version 3.0.6 ---
+
+         Tag: v3.0.6
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.6
+Published at: Sun Apr 21 05:55:12 2024
+
+            0 Total
+
+          --- Version 3.0.5 ---
+
+         Tag: v3.0.5
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.5
+Published at: Fri Apr 12 03:49:08 2024
+
+            0 Total
+
+          --- Version 3.0.4 ---
+
+         Tag: v3.0.4
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.4
+Published at: Thu Apr 11 04:59:37 2024
+
+            0 Total
+
+          --- Version 3.0.3 ---
+
+         Tag: v3.0.3
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.3
+Published at: Fri Mar 22 20:37:44 2024
+
+            0 Total
+
+          --- Version 3.0.2 ---
+
+         Tag: v3.0.2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.2
+Published at: Tue Mar  5 20:07:34 2024
+
+            0 Total
+
+          --- Version 3.0.1 ---
+
+         Tag: v3.0.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.1
+Published at: Tue Feb 27 21:14:50 2024
+
+            0 Total
+
+          --- Version 3.0.0 ---
+
+         Tag: v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0
+Published at: Tue Feb 27 01:13:47 2024
+
+            0 Total
+
+          --- Version 3.0.0 RC 2 ---
+
+         Tag: v3.0.0rc2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0rc2
+Published at: Sun Feb 25 06:10:53 2024
+
+            0 Total
+
+          --- Version 3.0.0 RC 1 ---
+
+         Tag: v3.0.0rc1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0rc1
+Published at: Tue Feb 20 08:17:12 2024
+
+            0 Total
+
+          --- Version 3.0.0 alpha 8 ---
+
+         Tag: v3.0.0a8
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0a8
+Published at: Thu Nov  2 01:19:24 2023
+
+            0 Total
+
+          --- Version 3.0.0 alpha 7 ---
+
+         Tag: v3.0.0a7
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0a7
+Published at: Tue Oct 17 02:22:31 2023
+
+            0 Total
+
+          --- Version 3.0.0 alpha 6 ---
+
+         Tag: v3.0.0a6
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0a6
+Published at: Thu Oct 12 04:57:12 2023
+
+            0 Total
+
+          --- Version 3.0.0 alpha 5 ---
+
+         Tag: v3.0.0a5
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0a5
+Published at: Tue Sep 12 03:58:05 2023
+
+            0 Total
+
+          --- Version 3.0.0 alpha 4 ---
+
+         Tag: v3.0.0a4
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0a4
+Published at: Wed Aug 30 08:27:54 2023
+
+            0 Total
+
+          --- Version 3.0.0 alpha 3 ---
+
+         Tag: v3.0.0a3
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0a3
+Published at: Mon Aug 28 06:51:11 2023
+
+            0 Total
+
+          --- Version 3.0.0 alpha 2 ---
+
+         Tag: v3.0.0a2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0a2
+Published at: Fri Aug 25 15:29:42 2023
+
+            0 Total
+
+          --- Version 3.0.0 alpha 1 ---
+
+         Tag: v3.0.0a1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v3.0.0a1
+Published at: Tue Aug 22 18:02:51 2023
+
+            0 Total
+
+          --- Version 2.2.17 ---
+
+         Tag: v2.2.17
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.17
+Published at: Sun Aug 20 20:38:50 2023
+
+            0 Total
+
+          --- Version 2.2.15 ---
+
+         Tag: v2.2.15
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.15
+Published at: Mon Jul  3 19:09:21 2023
+
+            0 Total
+
+          --- Version 2.2.14 ---
+
+         Tag: v2.2.14
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.14
+Published at: Fri Jun  9 07:22:21 2023
+
+            0 Total
+
+          --- Version 2.2.13 ---
+
+         Tag: v2.2.13
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.13
+Published at: Wed Jun  7 23:40:52 2023
+
+            0 Total
+
+          --- Version 2.2.12 ---
+
+         Tag: v2.2.12
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.12
+Published at: Tue May 30 08:28:26 2023
+
+            0 Total
+
+          --- Version 2.2.11 ---
+
+         Tag: v2.2.11
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.11
+Published at: Wed May 17 17:47:39 2023
+
+            0 Total
+
+          --- Version 2.2.10 ---
+
+         Tag: v2.2.10
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.10
+Published at: Wed Apr 26 21:04:12 2023
+
+            0 Total
+
+          --- Version 2.2.9 ---
+
+         Tag: v2.2.9
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.9
+Published at: Fri Apr 21 16:56:08 2023
+
+            0 Total
+
+          --- Version 2.2.8 ---
+
+         Tag: v2.2.8
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.8
+Published at: Mon Apr 17 02:37:30 2023
+
+            0 Total
+
+          --- Version 2.2.7 ---
+
+         Tag: v2.2.7
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.7
+Published at: Fri Mar 24 04:12:48 2023
+
+            0 Total
+
+          --- Version 2.2.6 ---
+
+         Tag: v2.2.6
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.6
+Published at: Sat Mar 18 21:38:53 2023
+
+            0 Total
+
+          --- Version 2.2.5 ---
+
+         Tag: v2.2.5
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.5
+Published at: Sat Mar 18 04:32:19 2023
+
+            0 Total
+
+          --- Version 2.2.4 ---
+
+         Tag: v2.2.4
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.4
+Published at: Tue Mar  7 06:20:02 2023
+
+            0 Total
+
+          --- Version 2.2.3 ---
+
+         Tag: v2.2.3
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.3
+Published at: Fri Feb 17 04:41:56 2023
+
+            0 Total
+
+          --- Version 2.2.2 ---
+
+         Tag: v2.2.2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.2
+Published at: Thu Feb 16 23:48:57 2023
+
+            0 Total
+
+          --- Version 2.2.1 ---
+
+         Tag: v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.1
+Published at: Thu Feb 16 08:44:46 2023
+
+            0 Total
+
+          --- Version 2.2.0 ---
+
+         Tag: v2.2.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.2.0
+Published at: Wed Feb 15 06:48:40 2023
+
+            0 Total
+
+          --- Version 2.1.7 ---
+
+         Tag: v2.1.7
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.1.7
+Published at: Tue Feb 14 06:35:14 2023
+
+            0 Total
+
+          --- Version 2.1.6 ---
+
+         Tag: v2.1.6
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.1.6
+Published at: Tue Feb 14 04:12:20 2023
+
+            0 Total
+
+          --- Version 2.1.5 ---
+
+         Tag: v2.1.5
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.1.5
+Published at: Sat Feb 11 04:00:00 2023
+
+            0 Total
+
+          --- Version 2.1.4 ---
+
+         Tag: v2.1.4
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.1.4
+Published at: Thu Feb  9 21:26:27 2023
+
+            0 Total
+
+          --- Version 2.1.3 ---
+
+         Tag: v2.1.3
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.1.3
+Published at: Thu Feb  9 04:36:12 2023
+
+            0 Total
+
+          --- Version 2.1.2 ---
+
+         Tag: v2.1.2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.1.2
+Published at: Tue Feb  7 00:50:53 2023
+
+            0 Total
+
+          --- Version 2.1.1 ---
+
+         Tag: v2.1.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.1.1
+Published at: Mon Feb  6 01:56:58 2023
+
+            0 Total
+
+          --- Version 2.1.0 ---
+
+         Tag: v2.1.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.1.0
+Published at: Sun Feb  5 05:51:26 2023
+
+            0 Total
+
+          --- Version 2.0.6 ---
+
+         Tag: v2.0.6
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.6
+Published at: Mon Aug  8 01:43:16 2022
+
+            0 Total
+
+          --- Version 2.0.5 ---
+
+         Tag: v2.0.5
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.5
+Published at: Tue Jul  5 04:43:54 2022
+
+            0 Total
+
+          --- Version 2.0.4 ---
+
+         Tag: v2.0.4
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.4
+Published at: Mon Jun 27 11:02:27 2022
+
+            0 Total
+
+          --- Version 2.0.2 ---
+
+         Tag: v2.0.2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.2
+Published at: Mon Jun 27 05:38:31 2022
+
+            0 Total
+
+          --- Version 2.0.1 ---
+
+         Tag: v2.0.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.1
+Published at: Sat Jun 18 03:03:53 2022
+
+            0 Total
+
+          --- Version 2.0.0 ---
+
+         Tag: v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0
+Published at: Fri Jun 17 09:11:42 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 9 ---
+
+         Tag: v2.0.0rc9
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc9
+Published at: Sat Jun  4 21:14:15 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 8 ---
+
+         Tag: v2.0.0rc8
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc8
+Published at: Thu Jun  2 04:04:28 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 7 ---
+
+         Tag: v2.0.0rc7
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc7
+Published at: Thu May  5 06:03:34 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 6 ---
+
+         Tag: v2.0.0rc6
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc6
+Published at: Mon May  2 06:51:18 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 5 ---
+
+         Tag: v2.0.0rc5
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc5
+Published at: Sat Apr  9 06:16:53 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 4 ---
+
+         Tag: v2.0.0rc4
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc4
+Published at: Tue Apr  5 03:32:13 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 3 ---
+
+         Tag: v2.0.0rc3
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc3
+Published at: Thu Jan 20 02:07:17 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 2 ---
+
+         Tag: v2.0.0rc2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc2
+Published at: Sun Jan 16 18:29:34 2022
+
+            0 Total
+
+          --- Version 2.0.0 release candidate 1 ---
+
+         Tag: v2.0.0rc1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0rc1
+Published at: Tue Jan 11 03:04:44 2022
+
+            0 Total
+
+          --- Version 2.0.0 beta 11 ---
+
+         Tag: v2.0.0b11
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b11
+Published at: Mon Jan  3 04:56:59 2022
+
+            0 Total
+
+          --- Version 2.0.0 beta 10 ---
+
+         Tag: v2.0.0b10
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b10
+Published at: Tue Dec 14 10:44:32 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 9 ---
+
+         Tag: v2.0.0b9
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b9
+Published at: Thu Dec  9 03:45:38 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 8 ---
+
+         Tag: v2.0.0b8
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b8
+Published at: Fri Dec  3 05:06:03 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 7 ---
+
+         Tag: v2.0.0b7
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b7
+Published at: Wed Nov 17 05:36:01 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 6 ---
+
+         Tag: v2.0.0b6
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b6
+Published at: Wed Nov 17 05:25:54 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 5 ---
+
+         Tag: v2.0.0b5
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b5
+Published at: Wed Nov 17 04:10:07 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 4 ---
+
+         Tag: v2.0.0b4
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b4
+Published at: Tue Nov  9 22:28:07 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 3 ---
+
+         Tag: v2.0.0b3
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b3
+Published at: Fri Oct  8 07:02:30 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 2 ---
+
+         Tag: v2.0.0b2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b2
+Published at: Tue Oct  5 03:12:30 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 1 ---
+
+         Tag: v2.0.0b1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b1
+Published at: Mon Oct  4 17:53:28 2021
+
+            0 Total
+
+          --- Version 2.0.0 beta 0 ---
+
+         Tag: v2.0.0b0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0b0
+Published at: Fri Oct  1 06:49:54 2021
+
+            0 Total
+
+          --- Version 2.0.0 alpha 24 ---
+
+         Tag: v2.0.0a24
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0a24
+Published at: Mon Aug 16 03:50:17 2021
+
+            0 Total
+
+          --- Version 2.0.0 alpha 23 ---
+
+         Tag: v2.0.0a23
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0a23
+Published at: Sun Aug  8 17:21:33 2021
+
+            0 Total
+
+          --- Version 2.0.0 alpha 22 ---
+
+         Tag: v2.0.0a22
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0a22
+Published at: Sat Jul 17 00:11:37 2021
+
+            0 Total
+
+          --- Version 2.0.0 alpha 7 ---
+
+         Tag: v2.0.0a7
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0a7
+Published at: Wed Mar 24 03:54:02 2021
+
+            0 Total
+
+          --- 2.0 alpha 3 ---
+
+         Tag: v2.0.0a3
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0a3
+Published at: Tue Feb  2 07:24:04 2021
+
+            0 Total
+
+          --- 2.0 alpha 2 ---
+
+         Tag: v2.0.0a2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0a2
+Published at: Mon Jan  4 19:00:32 2021
+
+            0 Total
+
+          --- 2.0 alpha 0 ---
+
+         Tag: v2.0.0a0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v2.0.0a0
+Published at: Tue Dec 15 04:05:42 2020
+
+            0 Total
+
+          --- Version 1.0.1 ---
+
+         Tag: v1.0.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v1.0.1
+Published at: Sat Apr  6 00:53:55 2019
+
+        15053 montreal-forced-aligner_linux.tar.gz
+         2245 montreal-forced-aligner_macosx.zip
+         5103 montreal-forced-aligner_win64.zip
+        22401 Total
+
+          --- Version 1.1.0 Beta 2 ---
+
+         Tag: v1.1.0-beta.2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v1.1.0-beta.2
+Published at: Sun Sep 30 18:16:00 2018
+
+         6575 montreal-forced-aligner_linux.tar.gz
+         1380 montreal-forced-aligner_macosx.zip
+        18555 montreal-forced-aligner_win64.zip
+        26510 Total
+
+          --- 1.1.0 beta ---
+
+         Tag: v1.1.0-beta.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v1.1.0-beta.1
+Published at: Fri Aug 24 01:35:41 2018
+
+          337 montreal-forced-aligner_linux.tar.gz
+          144 montreal-forced-aligner_macosx.zip
+          255 montreal-forced-aligner_win64.zip
+          736 Total
+
+          --- v1.0.0 ---
+
+         Tag: v1.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v1.0.0
+Published at: Thu May 18 20:49:10 2017
+
+         4033 montreal-forced-aligner_linux.tar.gz
+          877 montreal-forced-aligner_macosx.zip
+          748 montreal-forced-aligner_win64.zip
+         5658 Total
+
+          --- v0.8.1 ---
+
+         Tag: v0.8.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.8.1
+Published at: Tue Nov  8 16:12:14 2016
+
+          162 montreal-forced-aligner_linux.tar.gz
+          129 montreal-forced-aligner_macosx.zip
+          106 montreal-forced-aligner_win64.zip
+          397 Total
+
+          --- v0.8.0 ---
+
+         Tag: v0.8.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.8.0
+Published at: Thu Nov  3 21:13:06 2016
+
+           20 montreal-forced-aligner_macosx.zip
+           31 montreal-forced-aligner_win64.zip
+           51 Total
+
+          --- v0.7.2 ---
+
+         Tag: v0.7.2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.7.2
+Published at: Fri Sep 30 15:51:10 2016
+
+           27 montreal-forced-aligner_macosx.zip
+           20 montreal-forced-aligner_win64.zip
+           47 Total
+
+          --- v0.7.1 ---
+
+         Tag: v0.7.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.7.1
+Published at: Mon Sep 26 20:14:32 2016
+
+           13 montreal-forced-aligner_macosx.zip
+           16 montreal-forced-aligner_win64.zip
+           29 Total
+
+          --- v0.7.0 ---
+
+         Tag: v0.7.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.7.0
+Published at: Mon Sep 19 18:23:53 2016
+
+           10 montreal-forced-aligner_macosx.zip
+            9 montreal-forced-aligner_win64.zip
+           19 Total
+
+          --- v0.6.3 ---
+
+         Tag: v0.6.3
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.6.3
+Published at: Thu Sep  1 22:29:54 2016
+
+           14 montreal-forced-aligner_win64.zip
+           14 Total
+
+          --- v0.6.2 ---
+
+         Tag: v0.6.2
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.6.2
+Published at: Thu Aug 11 18:47:23 2016
+
+          137 montreal-forced-aligner_macosx.zip
+           12 montreal-forced-aligner_win64.zip
+          149 Total
+
+          --- v0.6.1 ---
+
+         Tag: v0.6.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.6.1
+Published at: Thu Aug 11 18:26:50 2016
+
+            7 montreal-forced-aligner_macosx.zip
+            7 Total
+
+          --- v0.6.0 ---
+
+         Tag: v0.6.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.6.0
+Published at: Sun Jul 24 22:02:52 2016
+
+            0 Total
+
+          --- v0.5.0 ---
+
+         Tag: v0.5.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/v0.5.0
+Published at: Tue Jul 12 04:37:16 2016
+
+           16 montreal-forced-aligner_macosx.zip
+           16 montreal-forced-aligner_win64.zip
+           32 Total
+
+          --- 0.5.0rc1 ---
+
+         Tag: 0.5.0rc1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/releases/tag/0.5.0rc1
+Published at: Mon Jul 11 16:57:56 2016
+
+           12 montreal-forced-aligner_macosx.zip
+           12 Total
+
+Total Downloads: 56062

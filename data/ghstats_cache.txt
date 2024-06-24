@@ -1,0 +1,3319 @@
+GitHub Download Stats
+Author: Alexander Gorishnyak <kefir500@gmail.com>
+
+Downloading MontrealCorpusTools/mfa-models stats...
+Downloaded in 2.974s
+
+          --- vietnamese_hue_mfa v3.0.0 ---
+
+         Tag: g2p-vietnamese_hue_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_hue_mfa-v3.0.0
+Published at: Mon Mar 25 04:32:43 2024
+
+            0 vietnamese_hue_mfa.zip
+            0 Total
+
+          --- vietnamese_ho_chi_minh_city_mfa v3.0.0 ---
+
+         Tag: g2p-vietnamese_ho_chi_minh_city_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_ho_chi_minh_city_mfa-v3.0.0
+Published at: Mon Mar 25 04:32:31 2024
+
+            1 vietnamese_ho_chi_minh_city_mfa.zip
+            1 Total
+
+          --- vietnamese_hanoi_mfa v3.0.0 ---
+
+         Tag: g2p-vietnamese_hanoi_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_hanoi_mfa-v3.0.0
+Published at: Mon Mar 25 04:32:20 2024
+
+            5 vietnamese_hanoi_mfa.zip
+            5 Total
+
+          --- vietnamese_mfa v3.0.0 ---
+
+         Tag: dictionary-vietnamese_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_mfa-v3.0.0
+Published at: Mon Mar 25 04:33:18 2024
+
+           14 vietnamese_mfa.dict
+           14 Total
+
+          --- vietnamese_ho_chi_minh_city_mfa v3.0.0 ---
+
+         Tag: dictionary-vietnamese_ho_chi_minh_city_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_ho_chi_minh_city_mfa-v3.0.0
+Published at: Mon Mar 25 04:33:06 2024
+
+            2 vietnamese_ho_chi_minh_city_mfa.dict
+            2 Total
+
+          --- vietnamese_hanoi_mfa v3.0.0 ---
+
+         Tag: dictionary-vietnamese_hanoi_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_hanoi_mfa-v3.0.0
+Published at: Mon Mar 25 04:32:55 2024
+
+            9 vietnamese_hanoi_mfa.dict
+            9 Total
+
+          --- vietnamese_mfa v3.0.0 ---
+
+         Tag: acoustic-vietnamese_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-vietnamese_mfa-v3.0.0
+Published at: Mon Mar 25 04:32:06 2024
+
+           21 vietnamese_mfa.zip
+           21 Total
+
+          --- ukrainian_mfa v3.0.0 ---
+
+         Tag: g2p-ukrainian_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-ukrainian_mfa-v3.0.0
+Published at: Fri Mar 22 00:56:49 2024
+
+            1 ukrainian_mfa.zip
+            1 Total
+
+          --- ukrainian_mfa v3.0.0 ---
+
+         Tag: dictionary-ukrainian_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-ukrainian_mfa-v3.0.0
+Published at: Fri Mar 22 00:57:01 2024
+
+            2 ukrainian_mfa.dict
+            2 Total
+
+          --- ukrainian_mfa v3.0.0 ---
+
+         Tag: acoustic-ukrainian_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-ukrainian_mfa-v3.0.0
+Published at: Fri Mar 22 00:56:35 2024
+
+            2 ukrainian_mfa.zip
+            2 Total
+
+          --- turkish_mfa v3.0.0 ---
+
+         Tag: g2p-turkish_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-turkish_mfa-v3.0.0
+Published at: Mon Mar 18 22:27:45 2024
+
+            4 turkish_mfa.zip
+            4 Total
+
+          --- swedish_mfa v3.0.0 ---
+
+         Tag: g2p-swedish_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-swedish_mfa-v3.0.0
+Published at: Mon Mar 18 22:27:33 2024
+
+            1 swedish_mfa.zip
+            1 Total
+
+          --- turkish_mfa v3.0.0 ---
+
+         Tag: dictionary-turkish_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-turkish_mfa-v3.0.0
+Published at: Mon Mar 18 22:28:10 2024
+
+           14 turkish_mfa.dict
+           14 Total
+
+          --- swedish_mfa v3.0.0 ---
+
+         Tag: dictionary-swedish_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-swedish_mfa-v3.0.0
+Published at: Mon Mar 18 22:27:58 2024
+
+            7 swedish_mfa.dict
+            7 Total
+
+          --- turkish_mfa v3.0.0 ---
+
+         Tag: acoustic-turkish_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-turkish_mfa-v3.0.0
+Published at: Mon Mar 18 22:27:19 2024
+
+           13 turkish_mfa.zip
+           13 Total
+
+          --- swedish_mfa v3.0.0 ---
+
+         Tag: acoustic-swedish_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-swedish_mfa-v3.0.0
+Published at: Mon Mar 18 22:27:03 2024
+
+            6 swedish_mfa.zip
+            6 Total
+
+          --- german_mfa v3.0.0 ---
+
+         Tag: g2p-german_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-german_mfa-v3.0.0
+Published at: Wed Mar 13 03:08:39 2024
+
+          171 german_mfa.zip
+          171 Total
+
+          --- french_mfa v3.0.0 ---
+
+         Tag: g2p-french_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-french_mfa-v3.0.0
+Published at: Wed Mar 13 03:08:27 2024
+
+          809 french_mfa.zip
+          809 Total
+
+          --- german_mfa v3.0.0 ---
+
+         Tag: dictionary-german_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-german_mfa-v3.0.0
+Published at: Wed Mar 13 03:09:04 2024
+
+          232 german_mfa.dict
+          232 Total
+
+          --- french_mfa v3.0.0 ---
+
+         Tag: dictionary-french_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-french_mfa-v3.0.0
+Published at: Wed Mar 13 03:08:52 2024
+
+          891 french_mfa.dict
+          891 Total
+
+          --- german_mfa v3.0.0 ---
+
+         Tag: acoustic-german_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-german_mfa-v3.0.0
+Published at: Wed Mar 13 03:08:11 2024
+
+          250 german_mfa.zip
+          250 Total
+
+          --- french_mfa v3.0.0 ---
+
+         Tag: acoustic-french_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-french_mfa-v3.0.0
+Published at: Wed Mar 13 03:07:56 2024
+
+          885 french_mfa.zip
+          885 Total
+
+          --- bulgarian_mfa v3.0.0 ---
+
+         Tag: dictionary-bulgarian_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-bulgarian_mfa-v3.0.0
+Published at: Tue Feb 27 01:03:58 2024
+
+            5 bulgarian_mfa.dict
+            5 Total
+
+          --- bulgarian_mfa v3.0.0 ---
+
+         Tag: acoustic-bulgarian_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-bulgarian_mfa-v3.0.0
+Published at: Tue Feb 27 01:02:01 2024
+
+            2 bulgarian_mfa.zip
+            2 Total
+
+          --- mandarin_taiwan_pinyin_mfa v3.0.0 ---
+
+         Tag: g2p-mandarin_taiwan_pinyin_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-mandarin_taiwan_pinyin_mfa-v3.0.0
+Published at: Sun Feb 25 22:52:28 2024
+
+            8 mandarin_taiwan_pinyin_mfa.zip
+            8 Total
+
+          --- mandarin_taiwan_mfa v3.0.0 ---
+
+         Tag: g2p-mandarin_taiwan_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-mandarin_taiwan_mfa-v3.0.0
+Published at: Sun Feb 25 22:52:16 2024
+
+            5 mandarin_taiwan_mfa.zip
+            5 Total
+
+          --- mandarin_china_pinyin_mfa v3.0.0 ---
+
+         Tag: g2p-mandarin_china_pinyin_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-mandarin_china_pinyin_mfa-v3.0.0
+Published at: Sun Feb 25 22:51:55 2024
+
+          140 mandarin_china_pinyin_mfa.zip
+          140 Total
+
+          --- mandarin_china_mfa v3.0.0 ---
+
+         Tag: g2p-mandarin_china_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-mandarin_china_mfa-v3.0.0
+Published at: Sun Feb 25 22:51:41 2024
+
+           83 mandarin_china_mfa.zip
+           83 Total
+
+          --- mandarin_taiwan_mfa v3.0.0 ---
+
+         Tag: dictionary-mandarin_taiwan_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_taiwan_mfa-v3.0.0
+Published at: Sun Feb 25 22:53:46 2024
+
+           40 mandarin_taiwan_mfa.dict
+           40 Total
+
+          --- mandarin_china_mfa v3.0.0 ---
+
+         Tag: dictionary-mandarin_china_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_china_mfa-v3.0.0
+Published at: Sun Feb 25 22:53:34 2024
+
+          201 mandarin_china_mfa.dict
+          201 Total
+
+          --- mandarin_mfa v3.0.0 ---
+
+         Tag: acoustic-mandarin_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-mandarin_mfa-v3.0.0
+Published at: Sun Feb 25 22:50:43 2024
+
+          430 mandarin_mfa.zip
+          430 Total
+
+          --- thai_mfa v3.0.0 ---
+
+         Tag: g2p-thai_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-thai_mfa-v3.0.0
+Published at: Sat Feb 24 00:11:04 2024
+
+            2 thai_mfa.zip
+            2 Total
+
+          --- korean_mfa v3.0.0 ---
+
+         Tag: g2p-korean_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-korean_mfa-v3.0.0
+Published at: Sat Feb 24 00:10:52 2024
+
+           16 korean_mfa.zip
+           16 Total
+
+          --- korean_jamo_mfa v3.0.0 ---
+
+         Tag: g2p-korean_jamo_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-korean_jamo_mfa-v3.0.0
+Published at: Sat Feb 24 00:10:40 2024
+
+            7 korean_jamo_mfa.zip
+            7 Total
+
+          --- japanese_katakana_mfa v3.0.0 ---
+
+         Tag: g2p-japanese_katakana_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-japanese_katakana_mfa-v3.0.0
+Published at: Fri Feb 23 23:58:45 2024
+
+           11 japanese_katakana_mfa.zip
+           11 Total
+
+          --- english_us_mfa v3.0.0 ---
+
+         Tag: g2p-english_us_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_us_mfa-v3.0.0
+Published at: Sat Feb 24 00:10:22 2024
+
+          192 english_us_mfa.zip
+          192 Total
+
+          --- english_uk_mfa v3.0.0 ---
+
+         Tag: g2p-english_uk_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_uk_mfa-v3.0.0
+Published at: Sat Feb 24 00:10:09 2024
+
+           47 english_uk_mfa.zip
+           47 Total
+
+          --- english_nigeria_mfa v3.0.0 ---
+
+         Tag: g2p-english_nigeria_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_nigeria_mfa-v3.0.0
+Published at: Sat Feb 24 00:09:24 2024
+
+            2 english_nigeria_mfa.zip
+            2 Total
+
+          --- english_india_mfa v3.0.0 ---
+
+         Tag: g2p-english_india_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_india_mfa-v3.0.0
+Published at: Sat Feb 24 00:09:12 2024
+
+           14 english_india_mfa.zip
+           14 Total
+
+          --- thai_mfa v3.0.0 ---
+
+         Tag: dictionary-thai_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-thai_mfa-v3.0.0
+Published at: Sat Feb 24 00:13:09 2024
+
+           19 thai_mfa.dict
+           19 Total
+
+          --- korean_mfa v3.0.0 ---
+
+         Tag: dictionary-korean_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-korean_mfa-v3.0.0
+Published at: Sat Feb 24 00:12:57 2024
+
+           64 korean_mfa.dict
+           64 Total
+
+          --- japanese_mfa v3.0.0 ---
+
+         Tag: dictionary-japanese_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-japanese_mfa-v3.0.0
+Published at: Sat Feb 24 00:12:45 2024
+
+           68 japanese_mfa.dict
+           68 Total
+
+          --- hausa_mfa v3.0.0 ---
+
+         Tag: dictionary-hausa_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-hausa_mfa-v3.0.0
+Published at: Sat Feb 24 00:12:33 2024
+
+           10 hausa_mfa.dict
+           10 Total
+
+          --- english_us_mfa v3.0.0 ---
+
+         Tag: dictionary-english_us_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_us_mfa-v3.0.0
+Published at: Sat Feb 24 00:12:21 2024
+
+          356 english_us_mfa.dict
+          356 Total
+
+          --- english_us_arpa v3.0.0 ---
+
+         Tag: dictionary-english_us_arpa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_us_arpa-v3.0.0
+Published at: Sat Feb 24 00:12:09 2024
+
+         5629 english_us_arpa.dict
+         5629 Total
+
+          --- english_uk_mfa v3.0.0 ---
+
+         Tag: dictionary-english_uk_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_uk_mfa-v3.0.0
+Published at: Sat Feb 24 00:11:57 2024
+
+          134 english_uk_mfa.dict
+          134 Total
+
+          --- english_nigeria_mfa v3.0.0 ---
+
+         Tag: dictionary-english_nigeria_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_nigeria_mfa-v3.0.0
+Published at: Sat Feb 24 00:11:45 2024
+
+            4 english_nigeria_mfa.dict
+            4 Total
+
+          --- english_mfa v3.0.0 ---
+
+         Tag: dictionary-english_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_mfa-v3.0.0
+Published at: Sat Feb 24 00:11:33 2024
+
+          294 english_mfa.dict
+          294 Total
+
+          --- english_india_mfa v3.0.0 ---
+
+         Tag: dictionary-english_india_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_india_mfa-v3.0.0
+Published at: Sat Feb 24 00:11:16 2024
+
+           36 english_india_mfa.dict
+           36 Total
+
+          --- thai_mfa v3.0.0 ---
+
+         Tag: acoustic-thai_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-thai_mfa-v3.0.0
+Published at: Sat Feb 24 00:08:57 2024
+
+           14 thai_mfa.zip
+           14 Total
+
+          --- korean_mfa v3.0.0 ---
+
+         Tag: acoustic-korean_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-korean_mfa-v3.0.0
+Published at: Sat Feb 24 00:08:43 2024
+
+           67 korean_mfa.zip
+           67 Total
+
+          --- japanese_mfa v3.0.0 ---
+
+         Tag: acoustic-japanese_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-japanese_mfa-v3.0.0
+Published at: Sat Feb 24 00:08:28 2024
+
+           76 japanese_mfa.zip
+           76 Total
+
+          --- hausa_mfa v3.0.0 ---
+
+         Tag: acoustic-hausa_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-hausa_mfa-v3.0.0
+Published at: Sat Feb 24 00:08:14 2024
+
+           10 hausa_mfa.zip
+           10 Total
+
+          --- english_us_arpa v3.0.0 ---
+
+         Tag: acoustic-english_us_arpa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-english_us_arpa-v3.0.0
+Published at: Sat Feb 24 00:07:59 2024
+
+         5726 english_us_arpa.zip
+         5726 Total
+
+          --- english_mfa v3.0.0 ---
+
+         Tag: acoustic-english_mfa-v3.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-english_mfa-v3.0.0
+Published at: Sat Feb 24 00:07:44 2024
+
+          806 english_mfa.zip
+          806 Total
+
+          --- english_us_mfa v2.2.1 ---
+
+         Tag: g2p-english_us_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_us_mfa-v2.2.1
+Published at: Mon May  8 08:47:07 2023
+
+          520 english_us_mfa.zip
+          520 Total
+
+          --- english_uk_mfa v2.2.1 ---
+
+         Tag: g2p-english_uk_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_uk_mfa-v2.2.1
+Published at: Mon May  8 08:46:54 2023
+
+          238 english_uk_mfa.zip
+          238 Total
+
+          --- english_nigeria_mfa v2.2.1 ---
+
+         Tag: g2p-english_nigeria_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_nigeria_mfa-v2.2.1
+Published at: Mon May  8 08:46:41 2023
+
+           15 english_nigeria_mfa.zip
+           15 Total
+
+          --- english_india_mfa v2.2.1 ---
+
+         Tag: g2p-english_india_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_india_mfa-v2.2.1
+Published at: Mon May  8 08:46:29 2023
+
+           39 english_india_mfa.zip
+           39 Total
+
+          --- english_us_mfa v2.2.1 ---
+
+         Tag: dictionary-english_us_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_us_mfa-v2.2.1
+Published at: Mon May  8 08:48:15 2023
+
+          930 english_us_mfa.dict
+          930 Total
+
+          --- english_uk_mfa v2.2.1 ---
+
+         Tag: dictionary-english_uk_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_uk_mfa-v2.2.1
+Published at: Mon May  8 08:48:03 2023
+
+          393 english_uk_mfa.dict
+          393 Total
+
+          --- english_nigeria_mfa v2.2.1 ---
+
+         Tag: dictionary-english_nigeria_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_nigeria_mfa-v2.2.1
+Published at: Mon May  8 08:47:51 2023
+
+           17 english_nigeria_mfa.dict
+           17 Total
+
+          --- english_mfa v2.2.1 ---
+
+         Tag: dictionary-english_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_mfa-v2.2.1
+Published at: Mon May  8 08:47:37 2023
+
+         1866 english_mfa.dict
+         1866 Total
+
+          --- english_india_mfa v2.2.1 ---
+
+         Tag: dictionary-english_india_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_india_mfa-v2.2.1
+Published at: Mon May  8 08:47:25 2023
+
+           75 english_india_mfa.dict
+           75 Total
+
+          --- english_mfa v2.2.1 ---
+
+         Tag: acoustic-english_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-english_mfa-v2.2.1
+Published at: Mon May  8 08:46:14 2023
+
+         3647 english_mfa.zip
+         3647 Total
+
+          --- japanese_mfa v2.2.1 ---
+
+         Tag: tokenizer-japanese_mfa-v2.2.1
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/tokenizer-japanese_mfa-v2.2.1
+Published at: Thu Feb 16 08:42:47 2023
+
+          198 japanese_mfa.zip
+          198 Total
+
+          --- japanese_mfa v2.2.0 ---
+
+         Tag: tokenizer-japanese_mfa-v2.2.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/tokenizer-japanese_mfa-v2.2.0
+Published at: Wed Feb 15 17:56:23 2023
+
+           11 japanese_mfa.zip
+           11 Total
+
+          --- multilingual_mfa v2.1.0 ---
+
+         Tag: ivector-multilingual_mfa-v2.1.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/ivector-multilingual_mfa-v2.1.0
+Published at: Fri Feb  3 03:50:12 2023
+
+          183 multilingual_mfa.zip
+          183 Total
+
+          --- japanese_mfa_lm v2.0.1a ---
+
+         Tag: language_model-japanese_mfa_lm-v2.0.1a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-japanese_mfa_lm-v2.0.1a
+Published at: Tue Jan 24 05:19:02 2023
+
+           44 japanese_mfa_lm.zip
+           44 Total
+
+          --- ivector_mfa v2.1.0 ---
+
+         Tag: ivector-ivector_mfa-v2.1.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/ivector-ivector_mfa-v2.1.0
+Published at: Thu Jan  5 00:29:56 2023
+
+           14 ivector_mfa.zip
+           14 Total
+
+          --- english_mfa v2.1.0 ---
+
+         Tag: ivector-english_mfa-v2.1.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/ivector-english_mfa-v2.1.0
+Published at: Thu Jan  5 00:29:41 2023
+
+           30 english_mfa.zip
+           30 Total
+
+          --- japanese_mfa v2.0.1a ---
+
+         Tag: g2p-japanese_mfa-v2.0.1a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-japanese_mfa-v2.0.1a
+Published at: Fri Jan 20 21:23:36 2023
+
+          135 japanese_mfa.zip
+          135 Total
+
+          --- japanese_mfa v2.0.0a ---
+
+         Tag: g2p-japanese_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-japanese_mfa-v2.0.0a
+Published at: Fri Jan 20 21:23:24 2023
+
+           13 japanese_mfa.zip
+           13 Total
+
+          --- japanese_mfa v2.0.1a ---
+
+         Tag: dictionary-japanese_mfa-v2.0.1a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-japanese_mfa-v2.0.1a
+Published at: Fri Jan 20 21:23:49 2023
+
+          338 japanese_mfa.dict
+          338 Total
+
+          --- japanese_mfa v2.0.1a ---
+
+         Tag: acoustic-japanese_mfa-v2.0.1a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-japanese_mfa-v2.0.1a
+Published at: Fri Jan 20 21:22:33 2023
+
+          297 japanese_mfa.zip
+          297 Total
+
+          --- vietnamese_mfa_lm v2.0.0a ---
+
+         Tag: language_model-vietnamese_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-vietnamese_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:55:43 2022
+
+           42 vietnamese_mfa_lm.zip
+           42 Total
+
+          --- ukrainian_mfa_lm v2.0.0a ---
+
+         Tag: language_model-ukrainian_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-ukrainian_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:55:31 2022
+
+           10 ukrainian_mfa_lm.zip
+           10 Total
+
+          --- turkish_mfa_lm v2.0.0a ---
+
+         Tag: language_model-turkish_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-turkish_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:55:19 2022
+
+            8 turkish_mfa_lm.zip
+            8 Total
+
+          --- thai_mfa_lm v2.0.0a ---
+
+         Tag: language_model-thai_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-thai_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:55:07 2022
+
+           16 thai_mfa_lm.zip
+           16 Total
+
+          --- swedish_mfa_lm v2.0.0a ---
+
+         Tag: language_model-swedish_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-swedish_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:54:54 2022
+
+            7 swedish_mfa_lm.zip
+            7 Total
+
+          --- swahili_mfa_lm v2.0.0a ---
+
+         Tag: language_model-swahili_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-swahili_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:54:42 2022
+
+            6 swahili_mfa_lm.zip
+            6 Total
+
+          --- spanish_mfa_lm v2.0.0a ---
+
+         Tag: language_model-spanish_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-spanish_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:54:26 2022
+
+           48 spanish_mfa_lm.zip
+           48 Total
+
+          --- russian_mfa_lm v2.0.0a ---
+
+         Tag: language_model-russian_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-russian_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:54:12 2022
+
+           33 russian_mfa_lm.zip
+           33 Total
+
+          --- portuguese_mfa_lm v2.0.0a ---
+
+         Tag: language_model-portuguese_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-portuguese_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:53:59 2022
+
+           17 portuguese_mfa_lm.zip
+           17 Total
+
+          --- polish_mfa_lm v2.0.0a ---
+
+         Tag: language_model-polish_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-polish_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:53:44 2022
+
+           17 polish_mfa_lm.zip
+           17 Total
+
+          --- mandarin_mfa_lm v2.0.0a ---
+
+         Tag: language_model-mandarin_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-mandarin_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:53:30 2022
+
+          363 mandarin_mfa_lm.zip
+          363 Total
+
+          --- korean_mfa_lm v2.0.0a ---
+
+         Tag: language_model-korean_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-korean_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:53:18 2022
+
+           59 korean_mfa_lm.zip
+           59 Total
+
+          --- hausa_mfa_lm v2.0.0a ---
+
+         Tag: language_model-hausa_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-hausa_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:53:06 2022
+
+            4 hausa_mfa_lm.zip
+            4 Total
+
+          --- german_mfa_lm v2.0.0a ---
+
+         Tag: language_model-german_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-german_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:52:48 2022
+
+           31 german_mfa_lm.zip
+           31 Total
+
+          --- french_mfa_lm v2.0.0a ---
+
+         Tag: language_model-french_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-french_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:52:25 2022
+
+           52 french_mfa_lm.zip
+           52 Total
+
+          --- english_mfa_lm v2.0.0a ---
+
+         Tag: language_model-english_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-english_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:52:07 2022
+
+          243 english_mfa_lm.zip
+          243 Total
+
+          --- czech_mfa_lm v2.0.0a ---
+
+         Tag: language_model-czech_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-czech_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:51:53 2022
+
+            7 czech_mfa_lm.zip
+            7 Total
+
+          --- croatian_mfa_lm v2.0.0a ---
+
+         Tag: language_model-croatian_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-croatian_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:51:41 2022
+
+            9 croatian_mfa_lm.zip
+            9 Total
+
+          --- bulgarian_mfa_lm v2.0.0a ---
+
+         Tag: language_model-bulgarian_mfa_lm-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-bulgarian_mfa_lm-v2.0.0a
+Published at: Fri Jun  3 07:51:29 2022
+
+            6 bulgarian_mfa_lm.zip
+            6 Total
+
+          --- vietnamese_hue_mfa v2.0.0a ---
+
+         Tag: g2p-vietnamese_hue_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_hue_mfa-v2.0.0a
+Published at: Fri Jun  3 07:42:46 2022
+
+           10 vietnamese_hue_mfa.zip
+           10 Total
+
+          --- vietnamese_ho_chi_minh_city_mfa v2.0.0a ---
+
+         Tag: g2p-vietnamese_ho_chi_minh_city_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_ho_chi_minh_city_mfa-v2.0.0a
+Published at: Fri Jun  3 07:42:35 2022
+
+           44 vietnamese_ho_chi_minh_city_mfa.zip
+           44 Total
+
+          --- vietnamese_hanoi_mfa v2.0.0a ---
+
+         Tag: g2p-vietnamese_hanoi_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_hanoi_mfa-v2.0.0a
+Published at: Fri Jun  3 07:42:23 2022
+
+           98 vietnamese_hanoi_mfa.zip
+           98 Total
+
+          --- ukrainian_mfa v2.0.0a ---
+
+         Tag: g2p-ukrainian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-ukrainian_mfa-v2.0.0a
+Published at: Fri Jun  3 07:42:11 2022
+
+           30 ukrainian_mfa.zip
+           30 Total
+
+          --- turkish_mfa v2.0.0a ---
+
+         Tag: g2p-turkish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-turkish_mfa-v2.0.0a
+Published at: Fri Jun  3 07:42:00 2022
+
+           30 turkish_mfa.zip
+           30 Total
+
+          --- thai_mfa v2.0.0a ---
+
+         Tag: g2p-thai_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-thai_mfa-v2.0.0a
+Published at: Fri Jun  3 07:41:48 2022
+
+           51 thai_mfa.zip
+           51 Total
+
+          --- swedish_mfa v2.0.0a ---
+
+         Tag: g2p-swedish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-swedish_mfa-v2.0.0a
+Published at: Fri Jun  3 05:05:50 2022
+
+           26 swedish_mfa.zip
+           26 Total
+
+          --- swahili_mfa v2.0.0a ---
+
+         Tag: g2p-swahili_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-swahili_mfa-v2.0.0a
+Published at: Fri Jun  3 05:05:38 2022
+
+           13 swahili_mfa.zip
+           13 Total
+
+          --- spanish_spain_mfa v2.0.0a ---
+
+         Tag: g2p-spanish_spain_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-spanish_spain_mfa-v2.0.0a
+Published at: Fri Jun  3 05:05:25 2022
+
+         4724 spanish_spain_mfa.zip
+         4724 Total
+
+          --- spanish_latin_america_mfa v2.0.0a ---
+
+         Tag: g2p-spanish_latin_america_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-spanish_latin_america_mfa-v2.0.0a
+Published at: Fri Jun  3 05:05:13 2022
+
+          247 spanish_latin_america_mfa.zip
+          247 Total
+
+          --- russian_mfa v2.0.0a ---
+
+         Tag: g2p-russian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-russian_mfa-v2.0.0a
+Published at: Fri Jun  3 05:05:01 2022
+
+          122 russian_mfa.zip
+          122 Total
+
+          --- portuguese_portugal_mfa v2.0.0a ---
+
+         Tag: g2p-portuguese_portugal_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-portuguese_portugal_mfa-v2.0.0a
+Published at: Fri Jun  3 05:04:49 2022
+
+           26 portuguese_portugal_mfa.zip
+           26 Total
+
+          --- portuguese_brazil_mfa v2.0.0a ---
+
+         Tag: g2p-portuguese_brazil_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-portuguese_brazil_mfa-v2.0.0a
+Published at: Fri Jun  3 05:04:38 2022
+
+           46 portuguese_brazil_mfa.zip
+           46 Total
+
+          --- polish_mfa v2.0.0a ---
+
+         Tag: g2p-polish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-polish_mfa-v2.0.0a
+Published at: Fri Jun  3 05:04:24 2022
+
+           59 polish_mfa.zip
+           59 Total
+
+          --- korean_mfa v2.0.0a ---
+
+         Tag: g2p-korean_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-korean_mfa-v2.0.0a
+Published at: Fri Jun  3 05:04:10 2022
+
+          188 korean_mfa.zip
+          188 Total
+
+          --- korean_jamo_mfa v2.0.0a ---
+
+         Tag: g2p-korean_jamo_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-korean_jamo_mfa-v2.0.0a
+Published at: Fri Jun  3 05:03:58 2022
+
+          107 korean_jamo_mfa.zip
+          107 Total
+
+          --- hausa_mfa v2.0.0a ---
+
+         Tag: g2p-hausa_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-hausa_mfa-v2.0.0a
+Published at: Fri Jun  3 05:03:47 2022
+
+            7 hausa_mfa.zip
+            7 Total
+
+          --- german_mfa v2.0.0a ---
+
+         Tag: g2p-german_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-german_mfa-v2.0.0a
+Published at: Fri Jun  3 05:03:34 2022
+
+          218 german_mfa.zip
+          218 Total
+
+          --- french_mfa v2.0.0a ---
+
+         Tag: g2p-french_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-french_mfa-v2.0.0a
+Published at: Fri Jun  3 05:03:21 2022
+
+          291 french_mfa.zip
+          291 Total
+
+          --- english_us_mfa v2.0.0a ---
+
+         Tag: g2p-english_us_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_us_mfa-v2.0.0a
+Published at: Fri Jun  3 05:03:08 2022
+
+          355 english_us_mfa.zip
+          355 Total
+
+          --- english_us_arpa v2.0.0a ---
+
+         Tag: g2p-english_us_arpa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_us_arpa-v2.0.0a
+Published at: Fri Jun  3 05:02:56 2022
+
+         2146 english_us_arpa.zip
+         2146 Total
+
+          --- english_uk_mfa v2.0.0a ---
+
+         Tag: g2p-english_uk_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_uk_mfa-v2.0.0a
+Published at: Fri Jun  3 05:02:44 2022
+
+           83 english_uk_mfa.zip
+           83 Total
+
+          --- english_nigeria_mfa v2.0.0a ---
+
+         Tag: g2p-english_nigeria_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_nigeria_mfa-v2.0.0a
+Published at: Fri Jun  3 05:02:32 2022
+
+           14 english_nigeria_mfa.zip
+           14 Total
+
+          --- czech_mfa v2.0.0a ---
+
+         Tag: g2p-czech_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-czech_mfa-v2.0.0a
+Published at: Fri Jun  3 05:02:20 2022
+
+           26 czech_mfa.zip
+           26 Total
+
+          --- croatian_mfa v2.0.0a ---
+
+         Tag: g2p-croatian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-croatian_mfa-v2.0.0a
+Published at: Fri Jun  3 05:02:08 2022
+
+           25 croatian_mfa.zip
+           25 Total
+
+          --- bulgarian_mfa v2.0.0a ---
+
+         Tag: g2p-bulgarian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-bulgarian_mfa-v2.0.0a
+Published at: Fri Jun  3 05:01:57 2022
+
+           32 bulgarian_mfa.zip
+           32 Total
+
+          --- vietnamese_mfa v2.0.0a ---
+
+         Tag: dictionary-vietnamese_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_mfa-v2.0.0a
+Published at: Fri Jun  3 07:51:18 2022
+
+          222 vietnamese_mfa.dict
+          222 Total
+
+          --- vietnamese_ho_chi_minh_city_mfa v2.0.0a ---
+
+         Tag: dictionary-vietnamese_ho_chi_minh_city_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_ho_chi_minh_city_mfa-v2.0.0a
+Published at: Fri Jun  3 07:51:06 2022
+
+           94 vietnamese_ho_chi_minh_city_mfa.dict
+           94 Total
+
+          --- vietnamese_hanoi_mfa v2.0.0a ---
+
+         Tag: dictionary-vietnamese_hanoi_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_hanoi_mfa-v2.0.0a
+Published at: Fri Jun  3 07:50:55 2022
+
+          123 vietnamese_hanoi_mfa.dict
+          123 Total
+
+          --- ukrainian_mfa v2.0.0a ---
+
+         Tag: dictionary-ukrainian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-ukrainian_mfa-v2.0.0a
+Published at: Fri Jun  3 07:50:44 2022
+
+           93 ukrainian_mfa.dict
+           93 Total
+
+          --- turkish_mfa v2.0.0a ---
+
+         Tag: dictionary-turkish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-turkish_mfa-v2.0.0a
+Published at: Fri Jun  3 07:50:32 2022
+
+           56 turkish_mfa.dict
+           56 Total
+
+          --- thai_mfa v2.0.0a ---
+
+         Tag: dictionary-thai_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-thai_mfa-v2.0.0a
+Published at: Fri Jun  3 07:50:21 2022
+
+          111 thai_mfa.dict
+          111 Total
+
+          --- swedish_mfa v2.0.0a ---
+
+         Tag: dictionary-swedish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-swedish_mfa-v2.0.0a
+Published at: Fri Jun  3 07:50:06 2022
+
+           66 swedish_mfa.dict
+           66 Total
+
+          --- swahili_mfa v2.0.0a ---
+
+         Tag: dictionary-swahili_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-swahili_mfa-v2.0.0a
+Published at: Fri Jun  3 07:49:54 2022
+
+           67 swahili_mfa.dict
+           67 Total
+
+          --- spanish_spain_mfa v2.0.0a ---
+
+         Tag: dictionary-spanish_spain_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-spanish_spain_mfa-v2.0.0a
+Published at: Fri Jun  3 07:49:43 2022
+
+         4738 spanish_spain_mfa.dict
+         4738 Total
+
+          --- spanish_mfa v2.0.0a ---
+
+         Tag: dictionary-spanish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-spanish_mfa-v2.0.0a
+Published at: Fri Jun  3 07:49:31 2022
+
+          453 spanish_mfa.dict
+          453 Total
+
+          --- spanish_latin_america_mfa v2.0.0a ---
+
+         Tag: dictionary-spanish_latin_america_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-spanish_latin_america_mfa-v2.0.0a
+Published at: Fri Jun  3 07:49:20 2022
+
+          222 spanish_latin_america_mfa.dict
+          222 Total
+
+          --- russian_mfa v2.0.0a ---
+
+         Tag: dictionary-russian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-russian_mfa-v2.0.0a
+Published at: Fri Jun  3 07:49:07 2022
+
+          487 russian_mfa.dict
+          487 Total
+
+          --- portuguese_portugal_mfa v2.0.0a ---
+
+         Tag: dictionary-portuguese_portugal_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-portuguese_portugal_mfa-v2.0.0a
+Published at: Fri Jun  3 07:48:52 2022
+
+           34 portuguese_portugal_mfa.dict
+           34 Total
+
+          --- portuguese_mfa v2.0.0a ---
+
+         Tag: dictionary-portuguese_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-portuguese_mfa-v2.0.0a
+Published at: Fri Jun  3 07:48:40 2022
+
+          212 portuguese_mfa.dict
+          212 Total
+
+          --- portuguese_brazil_mfa v2.0.0a ---
+
+         Tag: dictionary-portuguese_brazil_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-portuguese_brazil_mfa-v2.0.0a
+Published at: Fri Jun  3 07:48:29 2022
+
+          165 portuguese_brazil_mfa.dict
+          165 Total
+
+          --- polish_mfa v2.0.0a ---
+
+         Tag: dictionary-polish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-polish_mfa-v2.0.0a
+Published at: Fri Jun  3 07:48:18 2022
+
+          171 polish_mfa.dict
+          171 Total
+
+          --- mandarin_taiwan_mfa v2.0.0a ---
+
+         Tag: dictionary-mandarin_taiwan_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_taiwan_mfa-v2.0.0a
+Published at: Fri Jun  3 07:48:06 2022
+
+          284 mandarin_taiwan_mfa.dict
+          284 Total
+
+          --- mandarin_mfa v2.0.0a ---
+
+         Tag: dictionary-mandarin_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_mfa-v2.0.0a
+Published at: Fri Jun  3 07:47:54 2022
+
+         1302 mandarin_mfa.dict
+         1302 Total
+
+          --- mandarin_erhua_mfa v2.0.0a ---
+
+         Tag: dictionary-mandarin_erhua_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_erhua_mfa-v2.0.0a
+Published at: Fri Jun  3 07:47:42 2022
+
+          115 mandarin_erhua_mfa.dict
+          115 Total
+
+          --- mandarin_china_mfa v2.0.0a ---
+
+         Tag: dictionary-mandarin_china_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_china_mfa-v2.0.0a
+Published at: Fri Jun  3 07:47:30 2022
+
+         1021 mandarin_china_mfa.dict
+         1021 Total
+
+          --- korean_mfa v2.0.0a ---
+
+         Tag: dictionary-korean_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-korean_mfa-v2.0.0a
+Published at: Fri Jun  3 07:47:19 2022
+
+          424 korean_mfa.dict
+          424 Total
+
+          --- hausa_mfa v2.0.0a ---
+
+         Tag: dictionary-hausa_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-hausa_mfa-v2.0.0a
+Published at: Fri Jun  3 07:47:08 2022
+
+           32 hausa_mfa.dict
+           32 Total
+
+          --- german_mfa v2.0.0a ---
+
+         Tag: dictionary-german_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-german_mfa-v2.0.0a
+Published at: Fri Jun  3 07:46:55 2022
+
+          546 german_mfa.dict
+          546 Total
+
+          --- french_mfa v2.0.0a ---
+
+         Tag: dictionary-french_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-french_mfa-v2.0.0a
+Published at: Fri Jun  3 07:46:44 2022
+
+          769 french_mfa.dict
+          769 Total
+
+          --- english_us_mfa v2.0.0a ---
+
+         Tag: dictionary-english_us_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_us_mfa-v2.0.0a
+Published at: Fri Jun  3 07:46:32 2022
+
+          663 english_us_mfa.dict
+          663 Total
+
+          --- english_us_arpa v2.0.0a ---
+
+         Tag: dictionary-english_us_arpa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_us_arpa-v2.0.0a
+Published at: Fri Jun  3 07:46:20 2022
+
+         9197 english_us_arpa.dict
+         9197 Total
+
+          --- english_uk_mfa v2.0.0a ---
+
+         Tag: dictionary-english_uk_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_uk_mfa-v2.0.0a
+Published at: Fri Jun  3 07:46:08 2022
+
+          361 english_uk_mfa.dict
+          361 Total
+
+          --- english_nigeria_mfa v2.0.0a ---
+
+         Tag: dictionary-english_nigeria_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_nigeria_mfa-v2.0.0a
+Published at: Fri Jun  3 07:45:56 2022
+
+           26 english_nigeria_mfa.dict
+           26 Total
+
+          --- english_mfa v2.0.0a ---
+
+         Tag: dictionary-english_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_mfa-v2.0.0a
+Published at: Fri Jun  3 07:45:44 2022
+
+          858 english_mfa.dict
+          858 Total
+
+          --- czech_mfa v2.0.0a ---
+
+         Tag: dictionary-czech_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-czech_mfa-v2.0.0a
+Published at: Fri Jun  3 07:45:33 2022
+
+           51 czech_mfa.dict
+           51 Total
+
+          --- croatian_mfa v2.0.0a ---
+
+         Tag: dictionary-croatian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-croatian_mfa-v2.0.0a
+Published at: Fri Jun  3 07:45:18 2022
+
+           27 croatian_mfa.dict
+           27 Total
+
+          --- bulgarian_mfa v2.0.0a ---
+
+         Tag: dictionary-bulgarian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-bulgarian_mfa-v2.0.0a
+Published at: Fri Jun  3 07:45:07 2022
+
+           23 bulgarian_mfa.dict
+           23 Total
+
+          --- vietnamese_mfa v2.0.0a ---
+
+         Tag: acoustic-vietnamese_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-vietnamese_mfa-v2.0.0a
+Published at: Fri Jun  3 05:01:34 2022
+
+          267 vietnamese_mfa.zip
+          267 Total
+
+          --- ukrainian_mfa v2.0.0a ---
+
+         Tag: acoustic-ukrainian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-ukrainian_mfa-v2.0.0a
+Published at: Fri Jun  3 05:01:20 2022
+
+           88 ukrainian_mfa.zip
+           88 Total
+
+          --- turkish_mfa v2.0.0a ---
+
+         Tag: acoustic-turkish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-turkish_mfa-v2.0.0a
+Published at: Fri Jun  3 05:01:06 2022
+
+           56 turkish_mfa.zip
+           56 Total
+
+          --- thai_mfa v2.0.0a ---
+
+         Tag: acoustic-thai_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-thai_mfa-v2.0.0a
+Published at: Fri Jun  3 05:00:49 2022
+
+          106 thai_mfa.zip
+          106 Total
+
+          --- swedish_mfa v2.0.0a ---
+
+         Tag: acoustic-swedish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-swedish_mfa-v2.0.0a
+Published at: Fri Jun  3 05:00:32 2022
+
+          105 swedish_mfa.zip
+          105 Total
+
+          --- swahili_mfa v2.0.0a ---
+
+         Tag: acoustic-swahili_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-swahili_mfa-v2.0.0a
+Published at: Fri Jun  3 05:00:13 2022
+
+           56 swahili_mfa.zip
+           56 Total
+
+          --- spanish_mfa v2.0.0a ---
+
+         Tag: acoustic-spanish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-spanish_mfa-v2.0.0a
+Published at: Fri Jun  3 04:59:57 2022
+
+         5247 spanish_mfa.zip
+         5247 Total
+
+          --- russian_mfa v2.0.0a ---
+
+         Tag: acoustic-russian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-russian_mfa-v2.0.0a
+Published at: Fri Jun  3 04:59:42 2022
+
+          509 russian_mfa.zip
+          509 Total
+
+          --- portuguese_mfa v2.0.0a ---
+
+         Tag: acoustic-portuguese_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-portuguese_mfa-v2.0.0a
+Published at: Fri Jun  3 04:59:25 2022
+
+          373 portuguese_mfa.zip
+          373 Total
+
+          --- polish_mfa v2.0.0a ---
+
+         Tag: acoustic-polish_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-polish_mfa-v2.0.0a
+Published at: Fri Jun  3 04:59:09 2022
+
+          179 polish_mfa.zip
+          179 Total
+
+          --- mandarin_mfa v2.0.0a ---
+
+         Tag: acoustic-mandarin_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-mandarin_mfa-v2.0.0a
+Published at: Fri Jun  3 04:58:54 2022
+
+         3023 mandarin_mfa.zip
+         3023 Total
+
+          --- korean_mfa v2.0.0a ---
+
+         Tag: acoustic-korean_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-korean_mfa-v2.0.0a
+Published at: Fri Jun  3 04:58:38 2022
+
+          505 korean_mfa.zip
+          505 Total
+
+          --- hausa_mfa v2.0.0a ---
+
+         Tag: acoustic-hausa_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-hausa_mfa-v2.0.0a
+Published at: Fri Jun  3 04:58:22 2022
+
+           24 hausa_mfa.zip
+           24 Total
+
+          --- german_mfa v2.0.0a ---
+
+         Tag: acoustic-german_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-german_mfa-v2.0.0a
+Published at: Fri Jun  3 04:58:08 2022
+
+          653 german_mfa.zip
+          653 Total
+
+          --- french_mfa v2.0.0a ---
+
+         Tag: acoustic-french_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-french_mfa-v2.0.0a
+Published at: Fri Jun  3 04:57:52 2022
+
+          762 french_mfa.zip
+          762 Total
+
+          --- english_us_arpa v2.0.0a ---
+
+         Tag: acoustic-english_us_arpa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-english_us_arpa-v2.0.0a
+Published at: Fri Jun  3 04:57:37 2022
+
+        10836 english_us_arpa.zip
+        10836 Total
+
+          --- english_mfa v2.0.0a ---
+
+         Tag: acoustic-english_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-english_mfa-v2.0.0a
+Published at: Fri Jun  3 04:57:20 2022
+
+         1861 english_mfa.zip
+         1861 Total
+
+          --- czech_mfa v2.0.0a ---
+
+         Tag: acoustic-czech_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-czech_mfa-v2.0.0a
+Published at: Fri Jun  3 04:57:03 2022
+
+           50 czech_mfa.zip
+           50 Total
+
+          --- croatian_mfa v2.0.0a ---
+
+         Tag: acoustic-croatian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-croatian_mfa-v2.0.0a
+Published at: Fri Jun  3 04:56:49 2022
+
+           24 croatian_mfa.zip
+           24 Total
+
+          --- bulgarian_mfa v2.0.0a ---
+
+         Tag: acoustic-bulgarian_mfa-v2.0.0a
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-bulgarian_mfa-v2.0.0a
+Published at: Fri Jun  3 04:56:34 2022
+
+           26 bulgarian_mfa.zip
+           26 Total
+
+          --- russian_mfa v2.0.0 ---
+
+         Tag: g2p-russian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-russian_mfa-v2.0.0
+Published at: Fri Apr  1 17:48:57 2022
+
+           45 russian_mfa.zip
+           45 Total
+
+          --- german_mfa v2.0.0 ---
+
+         Tag: g2p-german_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-german_mfa-v2.0.0
+Published at: Fri Apr  1 05:59:54 2022
+
+           26 german_mfa.zip
+           26 Total
+
+          --- french_mfa v2.0.0 ---
+
+         Tag: g2p-french_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-french_mfa-v2.0.0
+Published at: Fri Apr  1 05:59:42 2022
+
+           32 french_mfa.zip
+           32 Total
+
+          --- english_us_mfa v2.0.0 ---
+
+         Tag: g2p-english_us_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_us_mfa-v2.0.0
+Published at: Fri Apr  1 05:59:30 2022
+
+          115 english_us_mfa.zip
+          115 Total
+
+          --- english_uk_mfa v2.0.0 ---
+
+         Tag: g2p-english_uk_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_uk_mfa-v2.0.0
+Published at: Fri Apr  1 05:59:18 2022
+
+           32 english_uk_mfa.zip
+           32 Total
+
+          --- english_nigeria_mfa v2.0.0 ---
+
+         Tag: g2p-english_nigeria_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_nigeria_mfa-v2.0.0
+Published at: Fri Apr  1 05:59:06 2022
+
+            8 english_nigeria_mfa.zip
+            8 Total
+
+          --- czech_mfa v2.0.0 ---
+
+         Tag: g2p-czech_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-czech_mfa-v2.0.0
+Published at: Fri Apr  1 05:58:54 2022
+
+            7 czech_mfa.zip
+            7 Total
+
+          --- russian_mfa v2.0.0 ---
+
+         Tag: dictionary-russian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-russian_mfa-v2.0.0
+Published at: Fri Apr  1 17:49:15 2022
+
+           54 russian_mfa.dict
+           54 Total
+
+          --- mandarin_taiwan_mfa v2.0.0 ---
+
+         Tag: dictionary-mandarin_taiwan_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_taiwan_mfa-v2.0.0
+Published at: Fri Apr  1 06:02:05 2022
+
+           46 mandarin_taiwan_mfa.dict
+           46 Total
+
+          --- mandarin_mfa v2.0.0 ---
+
+         Tag: dictionary-mandarin_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_mfa-v2.0.0
+Published at: Fri Apr  1 06:01:54 2022
+
+          371 mandarin_mfa.dict
+          371 Total
+
+          --- mandarin_erhua_mfa v2.0.0 ---
+
+         Tag: dictionary-mandarin_erhua_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_erhua_mfa-v2.0.0
+Published at: Fri Apr  1 06:01:42 2022
+
+           84 mandarin_erhua_mfa.dict
+           84 Total
+
+          --- mandarin_china_mfa v2.0.0 ---
+
+         Tag: dictionary-mandarin_china_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_china_mfa-v2.0.0
+Published at: Fri Apr  1 06:01:30 2022
+
+          555 mandarin_china_mfa.dict
+          555 Total
+
+          --- german_mfa v2.0.0 ---
+
+         Tag: dictionary-german_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-german_mfa-v2.0.0
+Published at: Fri Apr  1 06:01:18 2022
+
+           99 german_mfa.dict
+           99 Total
+
+          --- french_mfa v2.0.0 ---
+
+         Tag: dictionary-french_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-french_mfa-v2.0.0
+Published at: Fri Apr  1 06:01:05 2022
+
+          134 french_mfa.dict
+          134 Total
+
+          --- english_us_mfa v2.0.0 ---
+
+         Tag: dictionary-english_us_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_us_mfa-v2.0.0
+Published at: Fri Apr  1 06:00:54 2022
+
+          236 english_us_mfa.dict
+          236 Total
+
+          --- english_uk_mfa v2.0.0 ---
+
+         Tag: dictionary-english_uk_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_uk_mfa-v2.0.0
+Published at: Fri Apr  1 06:00:42 2022
+
+          222 english_uk_mfa.dict
+          222 Total
+
+          --- english_nigeria_mfa v2.0.0 ---
+
+         Tag: dictionary-english_nigeria_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_nigeria_mfa-v2.0.0
+Published at: Fri Apr  1 06:00:30 2022
+
+           14 english_nigeria_mfa.dict
+           14 Total
+
+          --- english_mfa v2.0.0 ---
+
+         Tag: dictionary-english_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_mfa-v2.0.0
+Published at: Fri Apr  1 06:00:18 2022
+
+          347 english_mfa.dict
+          347 Total
+
+          --- czech_mfa v2.0.0 ---
+
+         Tag: dictionary-czech_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-czech_mfa-v2.0.0
+Published at: Fri Apr  1 06:00:07 2022
+
+           15 czech_mfa.dict
+           15 Total
+
+          --- russian_mfa v2.0.0 ---
+
+         Tag: acoustic-russian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-russian_mfa-v2.0.0
+Published at: Fri Apr  1 17:48:42 2022
+
+           34 russian_mfa.zip
+           34 Total
+
+          --- mandarin_mfa v2.0.0 ---
+
+         Tag: acoustic-mandarin_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-mandarin_mfa-v2.0.0
+Published at: Fri Apr  1 05:58:37 2022
+
+         1136 mandarin_mfa.zip
+         1136 Total
+
+          --- german_mfa v2.0.0 ---
+
+         Tag: acoustic-german_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-german_mfa-v2.0.0
+Published at: Fri Apr  1 05:58:22 2022
+
+          198 german_mfa.zip
+          198 Total
+
+          --- french_mfa v2.0.0 ---
+
+         Tag: acoustic-french_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-french_mfa-v2.0.0
+Published at: Fri Apr  1 05:58:07 2022
+
+           65 french_mfa.zip
+           65 Total
+
+          --- english_mfa v2.0.0 ---
+
+         Tag: acoustic-english_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-english_mfa-v2.0.0
+Published at: Fri Apr  1 05:57:51 2022
+
+          752 english_mfa.zip
+          752 Total
+
+          --- czech_mfa v2.0.0 ---
+
+         Tag: acoustic-czech_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-czech_mfa-v2.0.0
+Published at: Fri Apr  1 05:57:36 2022
+
+            8 czech_mfa.zip
+            8 Total
+
+          --- swedish_mfa v2.0.0 ---
+
+         Tag: g2p-swedish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-swedish_mfa-v2.0.0
+Published at: Sat Mar 26 00:36:50 2022
+
+            5 swedish_mfa.zip
+            5 Total
+
+          --- portuguese_portugal_mfa v2.0.0 ---
+
+         Tag: g2p-portuguese_portugal_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-portuguese_portugal_mfa-v2.0.0
+Published at: Sat Mar 26 05:18:52 2022
+
+            9 portuguese_portugal_mfa.zip
+            9 Total
+
+          --- portuguese_brazil_mfa v2.0.0 ---
+
+         Tag: g2p-portuguese_brazil_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-portuguese_brazil_mfa-v2.0.0
+Published at: Sat Mar 26 05:18:40 2022
+
+           18 portuguese_brazil_mfa.zip
+           18 Total
+
+          --- polish_mfa v2.0.0 ---
+
+         Tag: g2p-polish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-polish_mfa-v2.0.0
+Published at: Sat Mar 26 21:58:27 2022
+
+           20 polish_mfa.zip
+           20 Total
+
+          --- korean_mfa v2.0.0 ---
+
+         Tag: g2p-korean_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-korean_mfa-v2.0.0
+Published at: Sat Mar 26 21:58:15 2022
+
+           29 korean_mfa.zip
+           29 Total
+
+          --- korean_jamo_mfa v2.0.0 ---
+
+         Tag: g2p-korean_jamo_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-korean_jamo_mfa-v2.0.0
+Published at: Sat Mar 26 21:58:03 2022
+
+           33 korean_jamo_mfa.zip
+           33 Total
+
+          --- english_us_arpa v2.0.0 ---
+
+         Tag: g2p-english_us_arpa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-english_us_arpa-v2.0.0
+Published at: Sat Mar 26 00:36:13 2022
+
+          229 english_us_arpa.zip
+          229 Total
+
+          --- swedish_mfa v2.0.0 ---
+
+         Tag: dictionary-swedish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-swedish_mfa-v2.0.0
+Published at: Sat Mar 26 00:40:48 2022
+
+           14 swedish_mfa.dict
+           14 Total
+
+          --- portuguese_portugal_mfa v2.0.0 ---
+
+         Tag: dictionary-portuguese_portugal_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-portuguese_portugal_mfa-v2.0.0
+Published at: Sat Mar 26 05:19:30 2022
+
+           15 portuguese_portugal_mfa.dict
+           15 Total
+
+          --- portuguese_mfa v2.0.0 ---
+
+         Tag: dictionary-portuguese_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-portuguese_mfa-v2.0.0
+Published at: Sat Mar 26 05:19:15 2022
+
+           57 portuguese_mfa.dict
+           57 Total
+
+          --- portuguese_brazil_mfa v2.0.0 ---
+
+         Tag: dictionary-portuguese_brazil_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-portuguese_brazil_mfa-v2.0.0
+Published at: Sat Mar 26 05:19:04 2022
+
+           49 portuguese_brazil_mfa.dict
+           49 Total
+
+          --- polish_mfa v2.0.0 ---
+
+         Tag: dictionary-polish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-polish_mfa-v2.0.0
+Published at: Sat Mar 26 21:59:02 2022
+
+           30 polish_mfa.dict
+           30 Total
+
+          --- korean_mfa v2.0.0 ---
+
+         Tag: dictionary-korean_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-korean_mfa-v2.0.0
+Published at: Sat Mar 26 21:58:51 2022
+
+           71 korean_mfa.dict
+           71 Total
+
+          --- korean_jamo_mfa v2.0.0 ---
+
+         Tag: dictionary-korean_jamo_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-korean_jamo_mfa-v2.0.0
+Published at: Sat Mar 26 21:58:39 2022
+
+          170 korean_jamo_mfa.dict
+          170 Total
+
+          --- swedish_mfa v2.0.0 ---
+
+         Tag: acoustic-swedish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-swedish_mfa-v2.0.0
+Published at: Sat Mar 26 00:34:46 2022
+
+            4 swedish_mfa.zip
+            4 Total
+
+          --- portuguese_mfa v2.0.0 ---
+
+         Tag: acoustic-portuguese_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-portuguese_mfa-v2.0.0
+Published at: Sat Mar 26 05:18:26 2022
+
+           82 portuguese_mfa.zip
+           82 Total
+
+          --- polish_mfa v2.0.0 ---
+
+         Tag: acoustic-polish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-polish_mfa-v2.0.0
+Published at: Sat Mar 26 21:57:48 2022
+
+           25 polish_mfa.zip
+           25 Total
+
+          --- korean_mfa v2.0.0 ---
+
+         Tag: acoustic-korean_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-korean_mfa-v2.0.0
+Published at: Sat Mar 26 21:57:35 2022
+
+           54 korean_mfa.zip
+           54 Total
+
+          --- vietnamese_hue_mfa v2.0.0 ---
+
+         Tag: g2p-vietnamese_hue_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_hue_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:54 2022
+
+            4 vietnamese_hue_mfa.zip
+            4 Total
+
+          --- vietnamese_ho_chi_minh_city_mfa v2.0.0 ---
+
+         Tag: g2p-vietnamese_ho_chi_minh_city_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_ho_chi_minh_city_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:53 2022
+
+            9 vietnamese_ho_chi_minh_city_mfa.zip
+            9 Total
+
+          --- vietnamese_hanoi_mfa v2.0.0 ---
+
+         Tag: g2p-vietnamese_hanoi_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-vietnamese_hanoi_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:51 2022
+
+           21 vietnamese_hanoi_mfa.zip
+           21 Total
+
+          --- ukrainian_mfa v2.0.0 ---
+
+         Tag: g2p-ukrainian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-ukrainian_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:49 2022
+
+            8 ukrainian_mfa.zip
+            8 Total
+
+          --- turkish_mfa v2.0.0 ---
+
+         Tag: g2p-turkish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-turkish_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:48 2022
+
+            9 turkish_mfa.zip
+            9 Total
+
+          --- thai_mfa v2.0.0 ---
+
+         Tag: g2p-thai_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-thai_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:46 2022
+
+           14 thai_mfa.zip
+           14 Total
+
+          --- swahili_mfa v2.0.0 ---
+
+         Tag: g2p-swahili_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-swahili_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:42 2022
+
+            5 swahili_mfa.zip
+            5 Total
+
+          --- spanish_spain_mfa v2.0.0 ---
+
+         Tag: g2p-spanish_spain_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-spanish_spain_mfa-v2.0.0
+Published at: Fri Mar 25 06:15:24 2022
+
+           24 spanish_spain_mfa.zip
+           24 Total
+
+          --- spanish_latin_america_mfa v2.0.0 ---
+
+         Tag: g2p-spanish_latin_america_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-spanish_latin_america_mfa-v2.0.0
+Published at: Fri Mar 25 06:15:23 2022
+
+           20 spanish_latin_america_mfa.zip
+           20 Total
+
+          --- hausa_mfa v2.0.0 ---
+
+         Tag: g2p-hausa_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-hausa_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:41 2022
+
+            4 hausa_mfa.zip
+            4 Total
+
+          --- croatian_mfa v2.0.0 ---
+
+         Tag: g2p-croatian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-croatian_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:39 2022
+
+            7 croatian_mfa.zip
+            7 Total
+
+          --- bulgarian_mfa v2.0.0 ---
+
+         Tag: g2p-bulgarian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-bulgarian_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:38 2022
+
+            7 bulgarian_mfa.zip
+            7 Total
+
+          --- vietnamese_mfa v2.0.0 ---
+
+         Tag: dictionary-vietnamese_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:14 2022
+
+           37 vietnamese_mfa.dict
+           37 Total
+
+          --- vietnamese_hue_mfa v2.0.0 ---
+
+         Tag: dictionary-vietnamese_hue_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_hue_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:13 2022
+
+           25 vietnamese_hue_mfa.dict
+           25 Total
+
+          --- vietnamese_ho_chi_minh_city_mfa v2.0.0 ---
+
+         Tag: dictionary-vietnamese_ho_chi_minh_city_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_ho_chi_minh_city_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:12 2022
+
+           19 vietnamese_ho_chi_minh_city_mfa.dict
+           19 Total
+
+          --- vietnamese_hanoi_mfa v2.0.0 ---
+
+         Tag: dictionary-vietnamese_hanoi_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_hanoi_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:11 2022
+
+           31 vietnamese_hanoi_mfa.dict
+           31 Total
+
+          --- ukrainian_mfa v2.0.0 ---
+
+         Tag: dictionary-ukrainian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-ukrainian_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:09 2022
+
+           12 ukrainian_mfa.dict
+           12 Total
+
+          --- turkish_mfa v2.0.0 ---
+
+         Tag: dictionary-turkish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-turkish_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:07 2022
+
+           16 turkish_mfa.dict
+           16 Total
+
+          --- thai_mfa v2.0.0 ---
+
+         Tag: dictionary-thai_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-thai_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:06 2022
+
+           33 thai_mfa.dict
+           33 Total
+
+          --- swahili_mfa v2.0.0 ---
+
+         Tag: dictionary-swahili_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-swahili_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:04 2022
+
+           17 swahili_mfa.dict
+           17 Total
+
+          --- spanish_spain_mfa v2.0.0 ---
+
+         Tag: dictionary-spanish_spain_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-spanish_spain_mfa-v2.0.0
+Published at: Fri Mar 25 06:15:37 2022
+
+           48 spanish_spain_mfa.dict
+           48 Total
+
+          --- spanish_mfa v2.0.0 ---
+
+         Tag: dictionary-spanish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-spanish_mfa-v2.0.0
+Published at: Fri Mar 25 06:15:36 2022
+
+           71 spanish_mfa.dict
+           71 Total
+
+          --- spanish_latin_america_mfa v2.0.0 ---
+
+         Tag: dictionary-spanish_latin_america_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-spanish_latin_america_mfa-v2.0.0
+Published at: Fri Mar 25 06:15:31 2022
+
+           68 spanish_latin_america_mfa.dict
+           68 Total
+
+          --- hausa_mfa v2.0.0 ---
+
+         Tag: dictionary-hausa_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-hausa_mfa-v2.0.0
+Published at: Fri Mar 25 02:39:01 2022
+
+           10 hausa_mfa.dict
+           10 Total
+
+          --- croatian_mfa v2.0.0 ---
+
+         Tag: dictionary-croatian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-croatian_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:58 2022
+
+           16 croatian_mfa.dict
+           16 Total
+
+          --- bulgarian_mfa v2.0.0 ---
+
+         Tag: dictionary-bulgarian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-bulgarian_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:56 2022
+
+            8 bulgarian_mfa.dict
+            8 Total
+
+          --- vietnamese_mfa v2.0.0 ---
+
+         Tag: acoustic-vietnamese_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-vietnamese_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:35 2022
+
+          100 vietnamese_mfa.zip
+          100 Total
+
+          --- ukrainian_mfa v2.0.0 ---
+
+         Tag: acoustic-ukrainian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-ukrainian_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:31 2022
+
+           10 ukrainian_mfa.zip
+           10 Total
+
+          --- turkish_mfa v2.0.0 ---
+
+         Tag: acoustic-turkish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-turkish_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:27 2022
+
+           12 turkish_mfa.zip
+           12 Total
+
+          --- thai_mfa v2.0.0 ---
+
+         Tag: acoustic-thai_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-thai_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:22 2022
+
+           20 thai_mfa.zip
+           20 Total
+
+          --- swahili_mfa v2.0.0 ---
+
+         Tag: acoustic-swahili_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-swahili_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:16 2022
+
+            8 swahili_mfa.zip
+            8 Total
+
+          --- spanish_mfa v2.0.0 ---
+
+         Tag: acoustic-spanish_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-spanish_mfa-v2.0.0
+Published at: Fri Mar 25 06:15:16 2022
+
+          102 spanish_mfa.zip
+          102 Total
+
+          --- hausa_mfa v2.0.0 ---
+
+         Tag: acoustic-hausa_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-hausa_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:10 2022
+
+            4 hausa_mfa.zip
+            4 Total
+
+          --- croatian_mfa v2.0.0 ---
+
+         Tag: acoustic-croatian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-croatian_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:06 2022
+
+            7 croatian_mfa.zip
+            7 Total
+
+          --- bulgarian_mfa v2.0.0 ---
+
+         Tag: acoustic-bulgarian_mfa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-bulgarian_mfa-v2.0.0
+Published at: Fri Mar 25 02:38:01 2022
+
+            5 bulgarian_mfa.zip
+            5 Total
+
+          --- bulgarian_lm v2.0.0 ---
+
+         Tag: language_model-bulgarian_lm-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/language_model-bulgarian_lm-v2.0.0
+Published at: Wed Mar 23 01:37:22 2022
+
+            8 bulgarian_lm.zip
+            8 Total
+
+          --- vietnamese_cv v2.0.0 ---
+
+         Tag: dictionary-vietnamese_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-vietnamese_cv-v2.0.0
+Published at: Wed Mar 23 01:37:21 2022
+
+           47 vietnamese_cv.dict
+           47 Total
+
+          --- uzbek_cv v2.0.0 ---
+
+         Tag: dictionary-uzbek_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-uzbek_cv-v2.0.0
+Published at: Wed Mar 23 01:37:20 2022
+
+           13 uzbek_cv.dict
+           13 Total
+
+          --- uyghur_cv v2.0.0 ---
+
+         Tag: dictionary-uyghur_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-uyghur_cv-v2.0.0
+Published at: Wed Mar 23 01:37:18 2022
+
+           24 uyghur_cv.dict
+           24 Total
+
+          --- urdu_cv v2.0.0 ---
+
+         Tag: dictionary-urdu_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-urdu_cv-v2.0.0
+Published at: Wed Mar 23 01:37:17 2022
+
+           24 urdu_cv.dict
+           24 Total
+
+          --- ukrainian_cv v2.0.0 ---
+
+         Tag: dictionary-ukrainian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-ukrainian_cv-v2.0.0
+Published at: Wed Mar 23 01:37:16 2022
+
+           13 ukrainian_cv.dict
+           13 Total
+
+          --- turkish_cv v2.0.0 ---
+
+         Tag: dictionary-turkish_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-turkish_cv-v2.0.0
+Published at: Wed Mar 23 01:37:15 2022
+
+           28 turkish_cv.dict
+           28 Total
+
+          --- thai_cv v2.0.0 ---
+
+         Tag: dictionary-thai_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-thai_cv-v2.0.0
+Published at: Wed Mar 23 01:37:13 2022
+
+           30 thai_cv.dict
+           30 Total
+
+          --- tatar_cv v2.0.0 ---
+
+         Tag: dictionary-tatar_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-tatar_cv-v2.0.0
+Published at: Wed Mar 23 01:37:11 2022
+
+           10 tatar_cv.dict
+           10 Total
+
+          --- tamil_cv v2.0.0 ---
+
+         Tag: dictionary-tamil_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-tamil_cv-v2.0.0
+Published at: Wed Mar 23 01:37:09 2022
+
+           57 tamil_cv.dict
+           57 Total
+
+          --- swedish_cv v2.0.0 ---
+
+         Tag: dictionary-swedish_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-swedish_cv-v2.0.0
+Published at: Wed Mar 23 01:37:08 2022
+
+          211 swedish_cv.dict
+          211 Total
+
+          --- sorbian_upper_cv v2.0.0 ---
+
+         Tag: dictionary-sorbian_upper_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-sorbian_upper_cv-v2.0.0
+Published at: Wed Mar 23 01:37:07 2022
+
+            5 sorbian_upper_cv.dict
+            5 Total
+
+          --- russian_cv v2.0.0 ---
+
+         Tag: dictionary-russian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-russian_cv-v2.0.0
+Published at: Wed Mar 23 01:37:06 2022
+
+           95 russian_cv.dict
+           95 Total
+
+          --- romanian_cv v2.0.0 ---
+
+         Tag: dictionary-romanian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-romanian_cv-v2.0.0
+Published at: Wed Mar 23 01:37:04 2022
+
+           43 romanian_cv.dict
+           43 Total
+
+          --- punjabi_cv v2.0.0 ---
+
+         Tag: dictionary-punjabi_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-punjabi_cv-v2.0.0
+Published at: Wed Mar 23 01:37:03 2022
+
+           19 punjabi_cv.dict
+           19 Total
+
+          --- portuguese_cv v2.0.0 ---
+
+         Tag: dictionary-portuguese_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-portuguese_cv-v2.0.0
+Published at: Wed Mar 23 01:37:02 2022
+
+           25 portuguese_cv.dict
+           25 Total
+
+          --- polish_cv v2.0.0 ---
+
+         Tag: dictionary-polish_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-polish_cv-v2.0.0
+Published at: Wed Mar 23 01:37:00 2022
+
+           28 polish_cv.dict
+           28 Total
+
+          --- mandarin_pinyin v2.0.0 ---
+
+         Tag: dictionary-mandarin_pinyin-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-mandarin_pinyin-v2.0.0
+Published at: Wed Mar 23 01:36:59 2022
+
+         1397 mandarin_pinyin.dict
+         1397 Total
+
+          --- maltese_cv v2.0.0 ---
+
+         Tag: dictionary-maltese_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-maltese_cv-v2.0.0
+Published at: Wed Mar 23 01:36:58 2022
+
+           11 maltese_cv.dict
+           11 Total
+
+          --- kyrgyz_cv v2.0.0 ---
+
+         Tag: dictionary-kyrgyz_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-kyrgyz_cv-v2.0.0
+Published at: Wed Mar 23 01:36:57 2022
+
+            5 kyrgyz_cv.dict
+            5 Total
+
+          --- kurmanji_cv v2.0.0 ---
+
+         Tag: dictionary-kurmanji_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-kurmanji_cv-v2.0.0
+Published at: Wed Mar 23 01:36:55 2022
+
+            8 kurmanji_cv.dict
+            8 Total
+
+          --- kazakh_cv v2.0.0 ---
+
+         Tag: dictionary-kazakh_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-kazakh_cv-v2.0.0
+Published at: Wed Mar 23 01:36:54 2022
+
+           26 kazakh_cv.dict
+           26 Total
+
+          --- italian_cv v2.0.0 ---
+
+         Tag: dictionary-italian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-italian_cv-v2.0.0
+Published at: Wed Mar 23 01:36:53 2022
+
+          284 italian_cv.dict
+          284 Total
+
+          --- indonesian_cv v2.0.0 ---
+
+         Tag: dictionary-indonesian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-indonesian_cv-v2.0.0
+Published at: Wed Mar 23 01:36:51 2022
+
+           44 indonesian_cv.dict
+           44 Total
+
+          --- hungarian_cv v2.0.0 ---
+
+         Tag: dictionary-hungarian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-hungarian_cv-v2.0.0
+Published at: Wed Mar 23 01:36:50 2022
+
+           35 hungarian_cv.dict
+           35 Total
+
+          --- hindi_cv v2.0.0 ---
+
+         Tag: dictionary-hindi_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-hindi_cv-v2.0.0
+Published at: Wed Mar 23 01:36:49 2022
+
+          178 hindi_cv.dict
+          178 Total
+
+          --- guarani_cv v2.0.0 ---
+
+         Tag: dictionary-guarani_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-guarani_cv-v2.0.0
+Published at: Wed Mar 23 01:36:48 2022
+
+            9 guarani_cv.dict
+            9 Total
+
+          --- greek_cv v2.0.0 ---
+
+         Tag: dictionary-greek_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-greek_cv-v2.0.0
+Published at: Wed Mar 23 01:36:46 2022
+
+           88 greek_cv.dict
+           88 Total
+
+          --- german_prosodylab v2.0.0 ---
+
+         Tag: dictionary-german_prosodylab-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-german_prosodylab-v2.0.0
+Published at: Wed Mar 23 01:36:40 2022
+
+           44 german_prosodylab.dict
+           44 Total
+
+          --- georgian_cv v2.0.0 ---
+
+         Tag: dictionary-georgian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-georgian_cv-v2.0.0
+Published at: Wed Mar 23 01:36:38 2022
+
+           15 georgian_cv.dict
+           15 Total
+
+          --- french_prosodylab v2.0.0 ---
+
+         Tag: dictionary-french_prosodylab-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-french_prosodylab-v2.0.0
+Published at: Wed Mar 23 01:36:37 2022
+
+           51 french_prosodylab.dict
+           51 Total
+
+          --- english_us_arpa v2.0.0 ---
+
+         Tag: dictionary-english_us_arpa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-english_us_arpa-v2.0.0
+Published at: Wed Mar 23 01:36:35 2022
+
+          756 english_us_arpa.dict
+          756 Total
+
+          --- dutch_cv v2.0.0 ---
+
+         Tag: dictionary-dutch_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-dutch_cv-v2.0.0
+Published at: Wed Mar 23 01:36:33 2022
+
+          177 dutch_cv.dict
+          177 Total
+
+          --- czech_cv v2.0.0 ---
+
+         Tag: dictionary-czech_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-czech_cv-v2.0.0
+Published at: Wed Mar 23 01:36:32 2022
+
+           26 czech_cv.dict
+           26 Total
+
+          --- chuvash_cv v2.0.0 ---
+
+         Tag: dictionary-chuvash_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-chuvash_cv-v2.0.0
+Published at: Wed Mar 23 01:36:30 2022
+
+            9 chuvash_cv.dict
+            9 Total
+
+          --- bulgarian_cv v2.0.0 ---
+
+         Tag: dictionary-bulgarian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-bulgarian_cv-v2.0.0
+Published at: Wed Mar 23 01:36:29 2022
+
+           13 bulgarian_cv.dict
+           13 Total
+
+          --- belarusian_cv v2.0.0 ---
+
+         Tag: dictionary-belarusian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-belarusian_cv-v2.0.0
+Published at: Wed Mar 23 01:36:28 2022
+
+           17 belarusian_cv.dict
+           17 Total
+
+          --- basque_cv v2.0.0 ---
+
+         Tag: dictionary-basque_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-basque_cv-v2.0.0
+Published at: Wed Mar 23 01:36:26 2022
+
+           33 basque_cv.dict
+           33 Total
+
+          --- bashkir_cv v2.0.0 ---
+
+         Tag: dictionary-bashkir_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-bashkir_cv-v2.0.0
+Published at: Wed Mar 23 01:36:24 2022
+
+            8 bashkir_cv.dict
+            8 Total
+
+          --- armenian_cv v2.0.0 ---
+
+         Tag: dictionary-armenian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-armenian_cv-v2.0.0
+Published at: Wed Mar 23 01:36:23 2022
+
+           36 armenian_cv.dict
+           36 Total
+
+          --- abkhaz_cv v2.0.0 ---
+
+         Tag: dictionary-abkhaz_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/dictionary-abkhaz_cv-v2.0.0
+Published at: Wed Mar 23 01:36:21 2022
+
+           26 abkhaz_cv.dict
+           26 Total
+
+          --- vietnamese_cv v2.0.0 ---
+
+         Tag: acoustic-vietnamese_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-vietnamese_cv-v2.0.0
+Published at: Wed Mar 23 01:36:19 2022
+
+           49 vietnamese_cv.zip
+           49 Total
+
+          --- uzbek_cv v2.0.0 ---
+
+         Tag: acoustic-uzbek_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-uzbek_cv-v2.0.0
+Published at: Wed Mar 23 01:36:18 2022
+
+            8 uzbek_cv.zip
+            8 Total
+
+          --- uyghur_cv v2.0.0 ---
+
+         Tag: acoustic-uyghur_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-uyghur_cv-v2.0.0
+Published at: Wed Mar 23 01:36:15 2022
+
+           16 uyghur_cv.zip
+           16 Total
+
+          --- ukrainian_cv v2.0.0 ---
+
+         Tag: acoustic-ukrainian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-ukrainian_cv-v2.0.0
+Published at: Wed Mar 23 01:36:12 2022
+
+           14 ukrainian_cv.zip
+           14 Total
+
+          --- turkish_cv v2.0.0 ---
+
+         Tag: acoustic-turkish_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-turkish_cv-v2.0.0
+Published at: Wed Mar 23 01:36:10 2022
+
+           21 turkish_cv.zip
+           21 Total
+
+          --- thai_cv v2.0.0 ---
+
+         Tag: acoustic-thai_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-thai_cv-v2.0.0
+Published at: Wed Mar 23 01:36:08 2022
+
+           18 thai_cv.zip
+           18 Total
+
+          --- tatar_cv v2.0.0 ---
+
+         Tag: acoustic-tatar_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-tatar_cv-v2.0.0
+Published at: Wed Mar 23 01:36:06 2022
+
+           11 tatar_cv.zip
+           11 Total
+
+          --- tamil_cv v2.0.0 ---
+
+         Tag: acoustic-tamil_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-tamil_cv-v2.0.0
+Published at: Wed Mar 23 01:36:04 2022
+
+           68 tamil_cv.zip
+           68 Total
+
+          --- swedish_cv v2.0.0 ---
+
+         Tag: acoustic-swedish_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-swedish_cv-v2.0.0
+Published at: Wed Mar 23 01:36:01 2022
+
+          208 swedish_cv.zip
+          208 Total
+
+          --- sorbian_upper_cv v2.0.0 ---
+
+         Tag: acoustic-sorbian_upper_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-sorbian_upper_cv-v2.0.0
+Published at: Wed Mar 23 01:35:59 2022
+
+            5 sorbian_upper_cv.zip
+            5 Total
+
+          --- russian_cv v2.0.0 ---
+
+         Tag: acoustic-russian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-russian_cv-v2.0.0
+Published at: Wed Mar 23 01:35:56 2022
+
+           99 russian_cv.zip
+           99 Total
+
+          --- romanian_cv v2.0.0 ---
+
+         Tag: acoustic-romanian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-romanian_cv-v2.0.0
+Published at: Wed Mar 23 01:35:54 2022
+
+           30 romanian_cv.zip
+           30 Total
+
+          --- portuguese_cv v2.0.0 ---
+
+         Tag: acoustic-portuguese_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-portuguese_cv-v2.0.0
+Published at: Wed Mar 23 01:35:51 2022
+
+           32 portuguese_cv.zip
+           32 Total
+
+          --- polish_cv v2.0.0 ---
+
+         Tag: acoustic-polish_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-polish_cv-v2.0.0
+Published at: Wed Mar 23 01:35:45 2022
+
+           18 polish_cv.zip
+           18 Total
+
+          --- kyrgyz_cv v2.0.0 ---
+
+         Tag: acoustic-kyrgyz_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-kyrgyz_cv-v2.0.0
+Published at: Wed Mar 23 01:35:43 2022
+
+           10 kyrgyz_cv.zip
+           10 Total
+
+          --- kurmanji_cv v2.0.0 ---
+
+         Tag: acoustic-kurmanji_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-kurmanji_cv-v2.0.0
+Published at: Wed Mar 23 01:35:41 2022
+
+            6 kurmanji_cv.zip
+            6 Total
+
+          --- kazakh_cv v2.0.0 ---
+
+         Tag: acoustic-kazakh_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-kazakh_cv-v2.0.0
+Published at: Wed Mar 23 01:35:39 2022
+
+           21 kazakh_cv.zip
+           21 Total
+
+          --- italian_cv v2.0.0 ---
+
+         Tag: acoustic-italian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-italian_cv-v2.0.0
+Published at: Wed Mar 23 01:35:36 2022
+
+          294 italian_cv.zip
+          294 Total
+
+          --- hungarian_cv v2.0.0 ---
+
+         Tag: acoustic-hungarian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-hungarian_cv-v2.0.0
+Published at: Wed Mar 23 01:35:34 2022
+
+           43 hungarian_cv.zip
+           43 Total
+
+          --- hausa_cv v2.0.0 ---
+
+         Tag: acoustic-hausa_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-hausa_cv-v2.0.0
+Published at: Wed Mar 23 01:35:32 2022
+
+           18 hausa_cv.zip
+           18 Total
+
+          --- guarani_cv v2.0.0 ---
+
+         Tag: acoustic-guarani_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-guarani_cv-v2.0.0
+Published at: Wed Mar 23 01:35:30 2022
+
+            3 guarani_cv.zip
+            3 Total
+
+          --- greek_cv v2.0.0 ---
+
+         Tag: acoustic-greek_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-greek_cv-v2.0.0
+Published at: Wed Mar 23 01:35:28 2022
+
+           95 greek_cv.zip
+           95 Total
+
+          --- georgian_cv v2.0.0 ---
+
+         Tag: acoustic-georgian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-georgian_cv-v2.0.0
+Published at: Wed Mar 23 01:35:25 2022
+
+            9 georgian_cv.zip
+            9 Total
+
+          --- english_us_arpa v2.0.0 ---
+
+         Tag: acoustic-english_us_arpa-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-english_us_arpa-v2.0.0
+Published at: Wed Mar 23 01:35:18 2022
+
+          962 english_us_arpa.zip
+          962 Total
+
+          --- dutch_cv v2.0.0 ---
+
+         Tag: acoustic-dutch_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-dutch_cv-v2.0.0
+Published at: Wed Mar 23 01:35:16 2022
+
+          171 dutch_cv.zip
+          171 Total
+
+          --- czech_cv v2.0.0 ---
+
+         Tag: acoustic-czech_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-czech_cv-v2.0.0
+Published at: Wed Mar 23 01:35:09 2022
+
+           16 czech_cv.zip
+           16 Total
+
+          --- chuvash_cv v2.0.0 ---
+
+         Tag: acoustic-chuvash_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-chuvash_cv-v2.0.0
+Published at: Wed Mar 23 01:35:06 2022
+
+            9 chuvash_cv.zip
+            9 Total
+
+          --- bulgarian_cv v2.0.0 ---
+
+         Tag: acoustic-bulgarian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-bulgarian_cv-v2.0.0
+Published at: Wed Mar 23 01:35:04 2022
+
+            5 bulgarian_cv.zip
+            5 Total
+
+          --- belarusian_cv v2.0.0 ---
+
+         Tag: acoustic-belarusian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-belarusian_cv-v2.0.0
+Published at: Wed Mar 23 01:35:01 2022
+
+           11 belarusian_cv.zip
+           11 Total
+
+          --- basque_cv v2.0.0 ---
+
+         Tag: acoustic-basque_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-basque_cv-v2.0.0
+Published at: Wed Mar 23 01:34:59 2022
+
+           30 basque_cv.zip
+           30 Total
+
+          --- bashkir_cv v2.0.0 ---
+
+         Tag: acoustic-bashkir_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-bashkir_cv-v2.0.0
+Published at: Wed Mar 23 01:34:56 2022
+
+            7 bashkir_cv.zip
+            7 Total
+
+          --- armenian_cv v2.0.0 ---
+
+         Tag: acoustic-armenian_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-armenian_cv-v2.0.0
+Published at: Wed Mar 23 01:34:54 2022
+
+           22 armenian_cv.zip
+           22 Total
+
+          --- abkhaz_cv v2.0.0 ---
+
+         Tag: acoustic-abkhaz_cv-v2.0.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-abkhaz_cv-v2.0.0
+Published at: Wed Mar 23 01:32:35 2022
+
+           25 abkhaz_cv.zip
+           25 Total
+
+          --- MFA G2P models from v1.0 ---
+
+         Tag: g2p-archive-1.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/g2p-archive-1.0
+Published at: Sat Jan 22 22:14:11 2022
+
+            9 arabic_g2p.zip
+            2 bulgarian_g2p.zip
+            2 croatian_g2p.zip
+            2 czech_g2p.zip
+            9 english_g2p.zip
+            7 french_g2p.zip
+            4 french_lexique_g2p.zip
+            5 french_prosodylab_g2p.zip
+            2 german_g2p.zip
+            2 german_prosodylab_g2p.zip
+            2 hausa_g2p.zip
+            2 index.txt
+           19 japanese_g2p.zip
+           18 korean_g2p.zip
+           22 mandarin_character_g2p.zip
+          114 mandarin_pinyin_g2p.zip
+            2 polish_g2p.zip
+            3 portuguese_g2p.zip
+            1 README.md
+            8 russian_g2p.zip
+           12 spanish_g2p.zip
+            3 swahili_g2p.zip
+            4 swedish_g2p.zip
+            4 thai_g2p.zip
+            3 turkish_g2p.zip
+            3 ukrainian_g2p.zip
+            4 vietnamese_g2p.zip
+            2 vietnamese_vphon_south_g2p.zip
+            5 wu_g2p.zip
+          275 Total
+
+          --- MFA acoustic models from v1.0 ---
+
+         Tag: acoustic-archive-v1.0
+      Author: mmcauliffe
+         URL: https://github.com/MontrealCorpusTools/mfa-models/releases/tag/acoustic-archive-v1.0
+Published at: Sat Jan 22 22:13:44 2022
+
+            7 arabic.zip
+           13 bulgarian.zip
+            6 croatian.zip
+            6 czech.zip
+            3 dine_bizaad_navajo.zip
+          263 english.zip
+            5 english_ipa.zip
+           14 french.zip
+           12 french_prosodylab.zip
+           13 french_qc.zip
+            9 german.zip
+            6 german_prosodylab.zip
+            5 hausa.zip
+           18 korean.zip
+          465 mandarin.zip
+            8 polish.zip
+            5 portuguese.zip
+           10 russian.zip
+           19 spanish.zip
+            6 swahili.zip
+            7 swedish.zip
+            6 thai.zip
+           13 turkish.zip
+            5 ukrainian.zip
+            9 vietnamese.zip
+          933 Total
+
+Total Downloads: 98518
